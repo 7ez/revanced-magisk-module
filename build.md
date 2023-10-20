@@ -1,5 +1,5 @@
-YouTube: 18.40.33  
-Twitter: 10.11.0-release.0  
+YouTube: 18.41.34  
+Twitter: 10.12.0-release.0  
 Twitch: 16.1.0  
 TikTok: 30.8.4  
 
@@ -10,11 +10,11 @@ Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouT
 
 Changelog:  
 CLI: inotia00/revanced-cli-4.0.3-all.jar  
-Integrations: inotia00/revanced-integrations-0.119.8.apk  
-Patches: inotia00/revanced-patches-2.193.8.jar  
-[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.193.8)
+Integrations: inotia00/revanced-integrations-0.119.18.apk  
+Patches: inotia00/revanced-patches-2.193.18.jar  
+[Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.193.18)
 
-CLI: j-hc/revanced-cli-4.0.1-all.jar  
-Integrations: ReVanced/revanced-integrations-0.119.2.apk  
-Patches: ReVanced/revanced-patches-2.194.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.194.0)  
+CLI: j-hc/revanced-cli-4.0.2-all.jar  
+Integrations: ReVanced/revanced-integrations-0.120.0.apk  
+Patches: ReVanced/revanced-patches-2.195.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.195.0)  
