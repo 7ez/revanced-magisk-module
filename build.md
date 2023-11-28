@@ -1,6 +1,6 @@
+Twitter: 10.16.0-release.0  
 TikTok: 30.8.4  
 Twitch: 16.9.1  
-Twitter: 10.16.0-release.0  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
@@ -8,6 +8,6 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 Changelog:  
 CLI: j-hc/revanced-cli-4.1.0-all.jar  
-Integrations: ReVanced/revanced-integrations-0.124.0.apk  
-Patches: ReVanced/revanced-patches-2.201.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.201.0)  
+Integrations: ReVanced/revanced-integrations-0.124.1.apk  
+Patches: ReVanced/revanced-patches-2.201.1.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v2.201.1)  
